@@ -67,8 +67,8 @@ index.html
 
 **Utkarsh Ranpise**  
 Frontend Developer Candidate  
-📧 [Your email]  
-🌐 [Portfolio URL or LinkedIn]
+📧 ranpiseutkarsh@gmail.com  
+🌐 [https://www.linkedin.com/in/utkarsh-ranpise/]
 
 ---
 
